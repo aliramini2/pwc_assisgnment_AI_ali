@@ -1,0 +1,2 @@
+text_input,audio_file,output,flag,username,timestamp
+,"{""path"":""flagged\\audio_file\\fcdeb019849af7ede151\\harvard.wav"",""url"":""http://127.0.0.1:7860/file=C:\\Users\\ali_r\\AppData\\Local\\Temp\\gradio\\eca29638620f51b4a96aaf4ce7927921f6792c42\\harvard.wav"",""size"":3249924,""orig_name"":""harvard.wav"",""mime_type"":""""}",Please provide either text or audio input.,,,2024-01-30 13:38:53.889696
